@@ -15,8 +15,16 @@ INTRODUCTION TO DISMATH
 - A LOT of terms
 - hokus modus pokus modus
 - addition simplification etc etc
-- lessons start becoming interesting
 
 #Week 4
 - Direct proofs, indirect, n^2 if even then bla bla is even
 - vacuous and trivial proofs
+
+#Week 5
+- Biconditional Statement
+- Recursive algorithms and from that, induction
+- 
+#Week 6
+- Continuing on Induction
+- Checking pseudocode for correctness
+- Hoarse Triple
